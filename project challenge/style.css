@@ -1,0 +1,99 @@
+body{
+
+   background-image: url('foto/background.jpg');
+   background-size: 1100px 700px;
+   background-repeat: no-repeat;
+   background-position: center;
+   padding: 40px;
+   background-color: black;
+   
+}
+main{
+    position:relative; 
+    top:10px;
+    left:250px; 
+    background-color: rgba(0,0 ,0 , 0.5);
+    width: 600px;
+    height: 550px;
+    border-radius: 10px 10px 10px 10px;
+    transform: translateY(-5%); 
+}
+
+.container {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+.log{
+
+    position:relative; 
+    top:20px;
+}
+
+.logo{
+   
+    width:100px;    
+}
+
+h2{
+   
+    color: rgb(56, 234, 56);
+}
+
+.button{
+
+    background-color: rgb(56, 234, 56);
+    padding: 10px 10px;
+    
+}
+
+.list{
+    text-align: left;
+    margin-top: 2%;
+   
+}
+
+.union{
+
+    position:relative; 
+    top:10px;
+
+}
+
+span{
+
+    color: white;
+    text-transform: lowercase
+}
+
+h6{ 
+    margin-top: 0;
+    color: white;
+    text-transform: lowercase
+}
+
+.loading-bar{
+    height: 20px;
+    background-color: #f8b365; 
+    width: 40%; 
+    border-radius: 2px 2px 2px 2px;
+    margin-top: 0;
+}
+
+.loading-bar2{
+    height: 20px;
+    background-color: #2bc10a; 
+    width: 70%; 
+    border-radius: 2px 2px 2px 2px;
+    margin-top: 0;
+}
+
+.loading-bar3{
+    height: 20px;
+    background-color: #b22903; 
+    width: 20%; 
+    border-radius: 2px 2px 2px 2px;
+    margin-top: 0;
+}
+
